@@ -1,5 +1,2 @@
-# Initial page
-
-SUMMARY.md
-# Summary
-* [前言](README.md)
+＃初始页面
+this is a test
